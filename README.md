@@ -4,3 +4,5 @@ tailwind
 navigate
 clerk
 prebuiltui
+reactmakdown
+lucide react
