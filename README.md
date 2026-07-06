@@ -2,7 +2,7 @@
 
 Creativus AI is a full-stack AI-powered SaaS platform that gives users a suite of content-creation and productivity tools in one place — article and blog title generation, AI image generation, background/object removal from images, and AI-powered resume review — with authentication, a free/premium usage model, and a community feed for shared creations.
 
-**Live demo:** [creativus-ai-server.vercel.app](https://creativus-ai-server.vercel.app)
+**Live demo:** [creativus-ai.vercel.app](https://creativus-ai.vercel.app/)
 
 ## Features
 
@@ -167,7 +167,7 @@ Check out the project walkthrough here:
 
 ## Deployment
 
-The project is configured for [Vercel](https://vercel.com/) deployment (`vercel.json` present in both `client/` and `server/`). The live version is hosted at [creativus-ai-server.vercel.app](https://creativus-ai-server.vercel.app).
+The project is configured for [Vercel](https://vercel.com/) deployment (`vercel.json` present in both `client/` and `server/`). The live version is hosted at [creativus-ai.vercel.app](https://creativus-ai.vercel.app/).
 
 ## License
 
